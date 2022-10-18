@@ -1,0 +1,99 @@
+.menu{
+    width: 1100px;
+    display: inline-block;
+    padding: 50px;
+ 
+}
+.menu-rasm{
+    display: inline-block;
+}
+.menu-title{
+    display: inline-block;
+padding: 10px;
+}
+.menu-titl{
+    display: inline-block;
+
+    margin:0 0 200px 400px;
+}
+.menu1{
+    display: inline-block;
+    width: 400px;
+    padding: 30 0 300px 50px;
+    margin:0 0  100px 0;
+}
+.sass{
+    text-align: left;
+    font-size: 50px;
+    width: 400px;
+}
+.zazu{
+font-size: 20px;
+width: 400px;
+}
+.butt{
+    background-color:white;
+    font-size: 25px;
+    border-radius: 50px;
+    color: black;
+    margin: 70px 0;
+}
+.menu-rasm1{
+    display: inline-block;
+    width: 500px;
+    padding: 0 0 0 100px;
+}
+.sas{
+    text-align: center;
+}
+.zaz{
+text-align: center;
+width: 800px;
+margin: 0 auto;
+}
+.divs-menu{
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+}
+
+.div{
+    display: inline-block;
+    text-align: center; 
+    width: 22%;
+    margin: 10px;  
+}
+.divv{
+    display: inline-block;
+text-align: center; 
+width: 22%;
+margin: 5px; }
+.mane{
+    display: inline-block;
+    text-align: center;
+}
+.but{
+    background-color:white;
+    color: aqua;
+    font-size: 25px;
+    border-radius: 48px;
+}
+.ssa{
+    text-align: center;
+}
+.but:hover{
+background-color: rgb(58, 58, 219);
+color: white;
+}
+.butt:hover{
+    background-color: blue;color: red;
+
+}
+li:hover{
+    background-color: black;
+    color: white;
+}
+img:hover{
+    border: 3px solid black;
+}
+
